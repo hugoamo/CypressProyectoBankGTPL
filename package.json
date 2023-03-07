@@ -1,0 +1,29 @@
+{
+  "name": "cypressgurrubanckgptl",
+  "version": "1.0.0",
+  "description": "Pracrtica de prueba con cypress v12 automatizando la pagina de guru 99 demo bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoamo/CypressProyectoBankGTPL.git"
+  },
+  "keywords": [
+    "cypress",
+    "demo",
+    "test",
+    "basic"
+  ],
+  "author": "Hugo Alejandro Mellizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoamo/CypressProyectoBankGTPL/issues"
+  },
+  "homepage": "https://github.com/hugoamo/CypressProyectoBankGTPL#readme",
+  "dependencies": {
+    "cypress": "^12.7.0",
+    "prettier": "^2.8.4"
+  }
+}
